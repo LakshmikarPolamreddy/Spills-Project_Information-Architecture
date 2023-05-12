@@ -2,7 +2,8 @@
 
 # Project overview
 Motivation: Accidental releases of petroleum and/or other hazardous materials occur throughout New York State. Even small releases have the potential to endanger public health and contaminate groundwater, surface water, and soils.
-Project Objectives:
+
+Objectives:
 - To identify the major sources and contributing factors for these spill occurrences.
 - To analyze if there is any relationship between the number of spill incidents and the income of the people in those counties.
 - To analyze if there is any relationship between the number of spill incidents and the number of manufacturing establishments in those counties.
