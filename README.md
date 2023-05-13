@@ -31,5 +31,5 @@ Step3: Development of dataware house, ETL process using MySQL and AWS resources
 
 Step4: EDA and Data visualization steps done in python file.
 
-Step5: Data visulaization in Tableau to answer our research questions (Clearly shown in the project ppt - saved as 'A project on analyzing spill incidents in NY state'.pdf in this repository)
+Step5: Data visulaization in Tableau to answer our research questions (Clearly shown in the project ppt (Slides-14,15 and 16) - saved as 'A project on analyzing spill incidents in NY state' in this repository)
 
