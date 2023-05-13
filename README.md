@@ -25,9 +25,9 @@ Step3: Development of dataware house, ETL process using MySQL and AWS resources
 - Created Star schema data model for OLAP
 - Created OLAP database using MySQL
 - Implemented Stored procedures and triggers for automatic updates
-- DDL file:
+- SQL scripts for OLTP and OLAP: oltp.sql, olap.sql
 - ER Diagram: ER Diagram.png
-- Bus matrix: 
+- Physical layout: Group_7_Physical_Layout_Final_Project
 
 Step4: EDA and Data visualization steps done in python file.
 
