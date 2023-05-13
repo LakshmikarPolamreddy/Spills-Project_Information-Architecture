@@ -7,7 +7,7 @@ Objectives:
 - To identify the major sources and contributing factors for these spill occurrences.
 - To analyze if there is any relationship between the number of spill incidents and the income of the people in those counties.
 - To analyze if there is any relationship between the number of spill incidents and the number of manufacturing establishments in those counties.
--
+
 # Project Steps
 Step1: Sourcing files and uploading to Github repository
 We have sourced datasets of Spills in NY state, Income of people in NY state and list of manufacturing companies in NY state from below links. We have uploaded these files into our Github repository - "https://github.com/LakshmikarPolamreddy/Spills-Project_Information-Architecture"
