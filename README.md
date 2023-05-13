@@ -26,7 +26,7 @@ Step3: Development of dataware house, ETL process using MySQL and AWS resources
 - Created OLAP database using MySQL
 - Implemented Stored procedures and triggers for automatic updates
 - DDL file:
-- ER Diagram:
+- ER Diagram: ER Diagram.png
 - Bus matrix: 
 
 Step4: EDA and Data visualization steps done in python file.
